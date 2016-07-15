@@ -1,0 +1,14 @@
+layout_spectrum: 0.7673343564383686
+typography_spectrum: 0.12230667332187295
+color:
+  brandStrength: 0.2655808066483587
+  lightness: 0.42705699405632913
+  saturation: 0.7436256115324795
+  rhythmicContrast: 0.6190111637115479
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Being Development
